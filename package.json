@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ashcano/ash-test-app/issues"
   },
-  "homepage": "https://github.com/ashcano/ash-test-app#readme"
+  "homepage": "https://github.com/ashcano/ash-test-app#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.11.1"
+  }
 }
